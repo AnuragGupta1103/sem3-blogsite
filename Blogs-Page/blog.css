@@ -1,0 +1,86 @@
+h1{
+    margin-left: 680px;
+    margin-bottom: 25px;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+a{
+    color: rgb(0, 120, 254);
+}
+
+a:hover{
+    color: rgb(0, 150, 254);
+}
+
+#blog-home{
+    margin-left: 570px;
+    margin-right: 20px;
+}
+
+#blog-tt{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 2px solid rgb(0, 120, 254);
+    border-right: 2px solid rgb(0, 120, 254);
+}
+
+#blog-syll{
+    margin-left: 10px;
+}
+
+.video-test{
+    margin-left: 550px;
+    margin-right: 20px;
+}
+
+.text-test{
+    padding-left: 20px;
+    border-left: 2px solid rgb(0, 120, 254);
+}
+
+.table-vid{
+    margin-left: 80px;
+    margin-right: 80px;
+    border-bottom: 3px solid gray;
+}
+
+td{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+iframe{
+    width: 450px;
+}
+
+.heading1{
+    border: 2px solid rgb(0, 120, 254);
+    text-align: center;
+    margin-right: 90px;
+    margin-left: 90px;
+    font-weight: bold;
+}
+
+.heading2{
+    border: 2px solid rgb(0, 120, 254);
+    text-align: center;
+    margin-right: 70px;
+    margin-left: 70px;
+    font-weight: bold;
+}
+
+.main-down{
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.names{
+    font-size: 22px;
+    border-bottom: 2px solid rgba(255, 0, 0, 0.769);
+}

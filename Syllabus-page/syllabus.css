@@ -1,0 +1,87 @@
+h2{
+    margin-left: 670px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.anchor-tags li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+a{
+    color: rgb(0, 120, 254);
+}
+
+a:hover{
+    color: rgb(0, 150, 254);
+}
+
+#syll-home{
+    margin-left: 590px;
+    padding-right: 10px;
+}
+
+#syll-blogs{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 2px solid rgb(0, 120, 254);
+    border-right: 2px solid rgb(0, 120, 254);
+}
+
+#syll-tt{
+    margin-left: 10px;
+}
+
+.html-css{
+    font-size: 19px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-shadow: 0px 0px 0.5px;
+}
+
+.html-topics{
+    display: none;
+}
+
+.HTML:hover .html-topics{
+    display: block;
+    font-size: 20px;
+}
+
+.media-ele{
+    display: none;
+}
+
+.media:hover > .media-ele{
+    display: block;
+    font-size: 20px;
+}
+
+.css-intro{
+    display: none;
+}
+
+.CSS:hover .css-intro{
+    display: block;
+    font-size: 20px;
+}
+
+#css-topics{
+    display: none;
+}
+
+.introduction:hover #css-topics{
+    display: block;
+    font-size: 20px;
+}
+
+.combi-ele{
+    display: none;
+}
+
+.combi:hover .combi-ele{
+    display: block;
+    font-size: 20px;
+}
